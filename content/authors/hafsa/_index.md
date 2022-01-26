@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aimen Hafsa
+title: Aeman Hafsa
 
 # Is this the primary user of the site?
 superuser: false
@@ -9,24 +9,24 @@ superuser: false
 role: Research Associate
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hafsa Aeman is working as a Research Associate at Remote Sensing and Spatial Analytics (RSA) Lab of Information Technology University (ITU) under AI4GLOF (AI for glacial lake outburst floods hazard potential assessment) project. She carries a Master Degree in Photogrammetry and Remote Sensing from Wuhan University, China secured through the Chinese Government Scholarship (CSC). She has completed her Undergraduate (four-year B.S program) from the Department of Space Sciences, University of Punjab. Fields of GIS & RS are her passion and she is particularly interested in the optical and microwave remote sensing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote Sensing and GIS 
+- Disaster Mitigation
+- Microwave Remote Sensing
+- Climate Change
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master's in Photogrammetry and Remote Sensing
+    institution: Wuhan University
+    year: 2020
+  - course: BS (hon.) in Space Sciences
+    institution: University of the Punjab, Lahore
+    year: 2018
+
+   
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
